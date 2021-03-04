@@ -60,21 +60,21 @@ public class JavaSpringTemplateApplication {
     Produto meia = new Produto();
 		meia.codigo = 2;
 		meia.descricao = "Meia";
-		meia.valor = 57.50;
+		meia.valor = 9.99;
 		
 		listaDeProdutos.add(meia);
 
     Produto toca = new Produto();
 		toca.codigo = 2;
 		toca.descricao = "Toca";
-		toca.valor = 57.50;
+		toca.valor = 35.00;
 		
 		listaDeProdutos.add(toca);
 
     Produto luvas = new Produto();
 		luvas.codigo = 2;
 		luvas.descricao = "Luvas";
-		luvas.valor = 57.50;
+		luvas.valor = 19.50;
 		
 		listaDeProdutos.add(luvas);
 		
